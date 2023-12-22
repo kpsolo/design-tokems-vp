@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "vp.vr",
-    "vp/vp.default"
+    "vp.default"
   ]
 }
