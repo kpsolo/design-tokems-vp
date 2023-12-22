@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "clonelab/tokens",
+    "themes/$metadata",
+    "themes/$themes",
+    "themes/global",
+    "vbet/tokens",
+    "vp/$metadata",
+    "vp/$themes",
+    "vp/vp.default"
+  ]
+}
