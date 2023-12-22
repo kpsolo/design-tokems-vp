@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "de1cc3fe55dbe75694bb60a6bf6942efd984c57d",
+    "name": "vp",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "vp/vp.default": "enabled"
+    }
+  }
+]
