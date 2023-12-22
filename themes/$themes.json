@@ -4,7 +4,8 @@
     "name": "vp",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "vp/vp.default": "enabled"
+      "vp/vp.default": "enabled",
+      "vp.vr": "disabled"
     }
   }
 ]
