@@ -1613,7 +1613,7 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "linear-gradient(180deg, #202A67 0%, #2F386D 100%)",
+        "value": "linear-gradient(180deg, #25317C 0%, #2D3A84 100%)",
         "type": "color",
         "description": "color for desktop sidebar"
       },
