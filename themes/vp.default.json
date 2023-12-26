@@ -3721,7 +3721,7 @@
         "description": "use for switcher default bg"
       },
       "4": {
-        "value": "#FFF600",
+        "value": "{button.content.light-bg}",
         "type": "color",
         "description": "use for switcher active bg"
       },
