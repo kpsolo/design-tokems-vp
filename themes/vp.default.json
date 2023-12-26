@@ -2962,7 +2962,7 @@
       "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
-      "value": "80",
+      "value": "88",
       "type": "sizing",
       "description": "use for mobile logo width "
     },
@@ -2984,7 +2984,7 @@
       "description": "use for top navbar items"
     },
     "logo-mobile": {
-      "value": "28",
+      "value": "44",
       "type": "sizing",
       "description": "use for mobile logo height "
     },
