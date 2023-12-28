@@ -1126,15 +1126,6 @@
       "type": "border",
       "description": "border on tabs"
     },
-    "thumb-default": {
-      "value": {
-        "color": "{small-elements.game.thumb-border-default}",
-        "style": "solid",
-        "width": "{border-width.thumb}"
-      },
-      "type": "border",
-      "description": "Thumb border default"
-    },
     "thumb-default-desktop": {
       "value": {
         "color": "{small-elements.game.thumb-border-default-desktop}",
@@ -1143,15 +1134,6 @@
       },
       "type": "border",
       "description": "Thumb border default desktop"
-    },
-    "thumb-tournament": {
-      "value": {
-        "color": "{small-elements.game.thumb-border-tournament}",
-        "style": "solid",
-        "width": "{border-width.thumb}"
-      },
-      "type": "border",
-      "description": "Thumb border tournament"
     },
     "ghost": {
       "value": {
@@ -2322,18 +2304,13 @@
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
-      "thumb-border-default": {
-        "value": "linear-gradient(180deg, #4C72D7 0%, #1E2A90 100%)",
-        "type": "color",
-        "description": "Background border for thumb"
-      },
       "thumb-border-default-desktop": {
         "value": "linear-gradient(180deg, #E1E7FF 0%, rgba(6, 16, 54, 0.57) 65.82%, #061036 100%)",
         "type": "color",
         "description": "Background border for thumb desktop"
       },
       "thumb-default": {
-        "value": "#1E2A90",
+        "value": "linear-gradient(180deg, #4C72D7 0%, #1E2A90 75%)",
         "type": "color",
         "description": "Background for thumb"
       },
@@ -2342,13 +2319,8 @@
         "type": "color",
         "description": "Background for thumb desktop"
       },
-      "thumb-border-tournament": {
-        "value": "linear-gradient(180deg, #E3C662 0%, #9F8600 100%)",
-        "type": "color",
-        "description": "Background border for thumb"
-      },
       "thumb-tournament": {
-        "value": "#9F8600",
+        "value": "linear-gradient(180deg, #E3C662 0%, #9F8600 75%)",
         "type": "color",
         "description": "Background for thumb"
       },
