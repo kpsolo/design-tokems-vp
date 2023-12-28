@@ -934,6 +934,28 @@
         },
         "type": "boxShadow"
       },
+      "wheel-widget-bg": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "16",
+          "spread": "0",
+          "color": "rgba(172,38,255,0.4)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "wheel-widget-text": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0",
+          "color": "#fff",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
       "timer-numbers": {
         "value": {
           "x": "0",
@@ -1356,6 +1378,15 @@
         },
         "type": "border",
         "description": "Border for Jackpot widget"
+      },
+      "wheel-widget-bg": {
+        "value": {
+          "color": "{small-elements.desktop.wheel-block-bg-border}",
+          "width": "1px",
+          "style": "solid"
+        },
+        "type": "border",
+        "description": "Border for wheel widget bg"
       },
       "referral-card": {
         "value": {
@@ -2552,10 +2583,35 @@
         "type": "color",
         "description": "Color of counter for desktop tournament widget"
       },
+      "wheel-counter": {
+        "value": "linear-gradient(180deg, #190000 -30%, #F00 75%)",
+        "type": "color",
+        "description": "Color of counter for desktop whell widget"
+      },
+      "wheel-block-bg": {
+        "value": "linear-gradient(180deg, #1c2e8d 0%, rgba(49, 58, 108, 0.00) 100%)",
+        "type": "color",
+        "description": "Color desktop bg wheel widget"
+      },
+      "wheel-block-bg-border": {
+        "value": "rgba(175,94,255,0.6)",
+        "type": "color",
+        "description": "Color desktop border wheel widget"
+      },
       "tournament-counter-bg": {
         "value": "{bg.tertiary}",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
+      },
+      "wheel-widget-text": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "text color on wheel widget"
+      },
+      "wheel-widget-text-light": {
+        "value": "rgba(117,147,255,0.5)",
+        "type": "color",
+        "description": "light on text on wheel widget"
       }
     },
     "label": {
