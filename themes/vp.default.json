@@ -2584,7 +2584,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "wheel-counter": {
-        "value": "linear-gradient(180deg, #190000 -30%, #F00 75%)",
+        "value": "linear-gradient(180deg, #190000 0%, #F00 75%)",
         "type": "color",
         "description": "Color of counter for desktop whell widget"
       },
