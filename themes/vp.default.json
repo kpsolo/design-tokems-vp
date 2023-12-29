@@ -566,8 +566,8 @@
           "type": "dropShadow",
           "x": "0",
           "y": "0",
-          "blur": "8",
-          "spread": "1"
+          "blur": "8px",
+          "spread": "0"
         }
       ],
       "type": "boxShadow",
@@ -581,7 +581,7 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "4"
+          "spread": "0"
         }
       ],
       "type": "boxShadow",
