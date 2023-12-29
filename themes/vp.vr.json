@@ -105,6 +105,21 @@
       "value": "#1F3189",
       "type": "color",
       "description": "border for win card"
+    },
+    "wheel-widget-text": {
+      "value": {
+        "fontFamily": "Advent Pro",
+        "fontWeight": "Bold Italic",
+        "lineHeight": "32px",
+        "fontSize": "32px",
+        "letterSpacing": "6%",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget"
     }
   }
 }

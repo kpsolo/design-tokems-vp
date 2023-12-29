@@ -3155,6 +3155,21 @@
       "type": "typography",
       "description": "Title for jackpot widget"
     },
+    "wheel-widget-text": {
+      "value": {
+        "fontFamily": "Advent Pro",
+        "fontWeight": "Bold Italic",
+        "lineHeight": "32px",
+        "fontSize": "32px",
+        "letterSpacing": "6%",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget"
+    },
     "x-status": {
       "value": {
         "fontFamily": "{font-family.main}",
