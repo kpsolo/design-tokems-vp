@@ -66,5 +66,17 @@
         "type": "boxShadow"
       }
     }
+  },
+  "special-blocks": {
+    "achivements-card-1": {
+      "value": "rgba(0, 27, 165, 0.20)",
+      "type": "color",
+      "description": "card bg in main screen"
+    },
+    "achivements-card-2": {
+      "value": "rgba(83, 70, 236, 0.20)",
+      "type": "color",
+      "description": "card bg in main screen"
+    }
   }
 }

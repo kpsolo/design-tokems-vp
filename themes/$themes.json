@@ -411,7 +411,10 @@
       "shadow.special-blocks.wheel-widget-bg": "S:f56667e16dc112e57412dc115f1d9f88c7a3852f,",
       "shadow.special-blocks.wheel-widget-text": "S:83f91e0c586cb7e096fe5aecabadc4278ea7016a,",
       "small-elements.desktop.wheel-widget-text": "S:9b1c9b8bf13241af8e511384cd643e234a024597,",
-      "small-elements.desktop.wheel-widget-text-light": "S:c1b68801a6c6cebe56c14f710d57cd386f800b98,"
+      "small-elements.desktop.wheel-widget-text-light": "S:c1b68801a6c6cebe56c14f710d57cd386f800b98,",
+      "special-blocks.achivements-card-1": "S:cc0619da6e3622e70e871d2103572db92f51b2d2,",
+      "special-blocks.achivements-card-2": "S:8f47ad06a6529e3fa4c4f93e3a856974d7a79c2f,",
+      "special-blocks.achivements-card-3": "S:c157148a2501a79e3e692a74449352b79bdcda17,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"
