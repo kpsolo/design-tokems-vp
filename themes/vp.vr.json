@@ -39,6 +39,24 @@
         "type": "border",
         "description": "Border for wheel widget bg"
       }
+    },
+    "achivements-1": {
+      "value": {
+        "color": "{special-blocks.achivements-border-1}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use as border for achivments activity card"
+    },
+    "achivements-1-copy": {
+      "value": {
+        "color": "{special-blocks.achivements-border-2}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use as border for achivments win card"
     }
   },
   "shadow": {
@@ -77,6 +95,16 @@
       "value": "rgba(83, 70, 236, 0.20)",
       "type": "color",
       "description": "card bg in main screen"
+    },
+    "achivements-border-1": {
+      "value": "#3B2F86",
+      "type": "color",
+      "description": "border for activity card"
+    },
+    "achivements-border-2": {
+      "value": "#1F3189",
+      "type": "color",
+      "description": "border for win card"
     }
   }
 }
