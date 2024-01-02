@@ -2361,18 +2361,13 @@
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
-      "thumb-border-default-desktop": {
-        "value": "linear-gradient(180deg, #E1E7FF 0%, rgba(6, 16, 54, 0.57) 65.82%, #061036 100%)",
-        "type": "color",
-        "description": "Background border for thumb desktop"
-      },
       "thumb-default": {
         "value": "linear-gradient(180deg, #4C72D7 0%, #1E2A90 75%)",
         "type": "color",
         "description": "Background for thumb"
       },
       "thumb-default-desktop": {
-        "value": "#050D29",
+        "value": "linear-gradient(180deg, #E1E7FF 0%, rgba(6, 16, 54, 0.57) 75%, #050D29 100%)",
         "type": "color",
         "description": "Background for thumb desktop"
       },
