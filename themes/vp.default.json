@@ -92,7 +92,7 @@
     "caption-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Regular",
+        "fontWeight": "Bold",
         "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -1320,7 +1320,7 @@
     },
     "achivements-1": {
       "value": {
-        "color": "{special-blocks.achivements-border-1}",
+        "color": "{special-blocks.achivements.border-1}",
         "width": "1",
         "style": "solid"
       },
@@ -1329,7 +1329,7 @@
     },
     "achivements-2": {
       "value": {
-        "color": "{special-blocks.achivements-border-2}",
+        "color": "{special-blocks.achivements.border-2}",
         "width": "1",
         "style": "solid"
       },
@@ -3100,30 +3100,32 @@
       "type": "color",
       "description": "Border-color for jackpot widgets"
     },
-    "achivements-card-1": {
-      "value": "rgba(0, 27, 165, 0.20)",
-      "type": "color",
-      "description": "card in progress bg in main screen"
-    },
-    "achivements-border-1": {
-      "value": "#3B2F86",
-      "type": "color",
-      "description": "border for activity card"
-    },
-    "achivements-border-2": {
-      "value": "#1F3189",
-      "type": "color",
-      "description": "border for win card"
-    },
-    "achivements-card-2": {
-      "value": "rgba(83, 70, 236, 0.20)",
-      "type": "color",
-      "description": "card last bg in main screen"
-    },
-    "achivements-card-3": {
-      "value": "rgba(30, 44, 115, 0.20)",
-      "type": "color",
-      "description": "card first deposit bg in main screen"
+    "achivements": {
+      "card-1": {
+        "value": "rgba(0, 27, 165, 0.20)",
+        "type": "color",
+        "description": "card in progress bg in main screen"
+      },
+      "border-1": {
+        "value": "#3B2F86",
+        "type": "color",
+        "description": "border for activity card"
+      },
+      "border-2": {
+        "value": "#1F3189",
+        "type": "color",
+        "description": "border for win card"
+      },
+      "card-2": {
+        "value": "rgba(83, 70, 236, 0.20)",
+        "type": "color",
+        "description": "card last bg in main screen"
+      },
+      "card-3": {
+        "value": "rgba(30, 44, 115, 0.20)",
+        "type": "color",
+        "description": "card first deposit bg in main screen"
+      }
     },
     "jackpot-border-2": {
       "value": "rgba(178,172,0,0.2)",
