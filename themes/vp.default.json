@@ -958,7 +958,7 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "0",
+          "spread": "",
           "color": "#fff",
           "type": "dropShadow"
         },
@@ -3115,20 +3115,10 @@
         "type": "color",
         "description": "border for activity card"
       },
-      "popup-1": {
-        "value": "linear-gradient(180deg, #5E49E1 0%, #5744D1 49.96%, #4D3BBA 100%)",
-        "type": "color",
-        "description": "for congrads achivements popup bg"
-      },
       "gradient": {
         "value": "linear-gradient(89deg, rgba(23, 33, 87, 0.70) 1.23%, rgba(23, 33, 87, 0.00) 98.88%)",
         "type": "color",
         "description": "for empty cards zone"
-      },
-      "popup-2": {
-        "value": "linear-gradient(180deg, #2A399F 0%, #314ADD 100%)",
-        "type": "color",
-        "description": "for congrads rewards popup bg"
       },
       "border-2": {
         "value": "#1F3189",
