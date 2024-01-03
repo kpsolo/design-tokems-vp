@@ -1336,6 +1336,15 @@
       "type": "border",
       "description": "use as border for achivments win card"
     },
+    "achivements-3": {
+      "value": {
+        "color": "rgba(255, 255, 255, 0.40)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use as border in popup prize sector"
+    },
     "nav-active": {
       "value": {
         "color": "{base.accent-primary}",
@@ -3101,20 +3110,35 @@
       "description": "Border-color for jackpot widgets"
     },
     "achivements": {
-      "card-1": {
-        "value": "rgba(0, 27, 165, 0.20)",
-        "type": "color",
-        "description": "card in progress bg in main screen"
-      },
       "border-1": {
         "value": "#3B2F86",
         "type": "color",
         "description": "border for activity card"
       },
+      "popup-1": {
+        "value": "linear-gradient(180deg, #5E49E1 0%, #5744D1 49.96%, #4D3BBA 100%)",
+        "type": "color",
+        "description": "for congrads achivements popup bg"
+      },
+      "gradient": {
+        "value": "linear-gradient(89deg, rgba(23, 33, 87, 0.70) 1.23%, rgba(23, 33, 87, 0.00) 98.88%)",
+        "type": "color",
+        "description": "for empty cards zone"
+      },
+      "popup-2": {
+        "value": "linear-gradient(180deg, #2A399F 0%, #314ADD 100%)",
+        "type": "color",
+        "description": "for congrads rewards popup bg"
+      },
       "border-2": {
         "value": "#1F3189",
         "type": "color",
         "description": "border for win card"
+      },
+      "card-1": {
+        "value": "rgba(0, 27, 165, 0.20)",
+        "type": "color",
+        "description": "card in progress bg in main screen"
       },
       "card-2": {
         "value": "rgba(83, 70, 236, 0.20)",
@@ -3125,6 +3149,11 @@
         "value": "rgba(30, 44, 115, 0.20)",
         "type": "color",
         "description": "card first deposit bg in main screen"
+      },
+      "card-4": {
+        "value": "rgba(45, 124, 231, 0.08)",
+        "type": "color",
+        "description": "achivements card"
       }
     },
     "jackpot-border-2": {
