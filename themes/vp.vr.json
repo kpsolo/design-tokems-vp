@@ -1,7 +1,7 @@
 {
   "small-elements": {
     "desktop": {
-      "wheel-counter": {
+      "wheel-counter-win": {
         "value": "linear-gradient(180deg, #190000 -30%, #F00 75%)",
         "type": "color",
         "description": "Color of counter for desktop whell widget"
@@ -25,6 +25,11 @@
         "value": "rgba(117,147,255,0.5)",
         "type": "color",
         "description": "light on text on wheel widget"
+      },
+      "wheel-counter": {
+        "value": "linear-gradient(180deg, #6409CC 0%, #A759FF 75%)",
+        "type": "color",
+        "description": "Color of counter for desktop wheel widget"
       }
     }
   },

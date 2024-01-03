@@ -1156,15 +1156,6 @@
       "type": "border",
       "description": "border on tabs"
     },
-    "thumb-default-desktop": {
-      "value": {
-        "color": "{small-elements.game.thumb-border-default-desktop}",
-        "style": "solid",
-        "width": "{border-width.thumb}"
-      },
-      "type": "border",
-      "description": "Thumb border default desktop"
-    },
     "ghost": {
       "value": {
         "color": "{base.accent-primary}",
@@ -2613,10 +2604,15 @@
         "type": "color",
         "description": "Color of counter for desktop tournament widget"
       },
-      "wheel-counter": {
+      "wheel-counter-win": {
         "value": "linear-gradient(180deg, #190000 0%, #F00 75%)",
         "type": "color",
         "description": "Color of counter for desktop whell widget"
+      },
+      "wheel-counter": {
+        "value": "linear-gradient(180deg, #6409CC 0%, #A759FF 75%)",
+        "type": "color",
+        "description": "Color of counter for desktop wheel widget"
       },
       "wheel-block-bg": {
         "value": "linear-gradient(180deg, #1c2e8d 0%, rgba(49, 58, 108, 0.00) 100%)",

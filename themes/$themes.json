@@ -404,7 +404,6 @@
       "shadow.special-blocks.wheel.additional": "S:005071516684ea816e04879fa276cb34972684d7,",
       "shadow.special-blocks.card": "S:413f4835016ae2f8cba49ff6e77c1a98f5110636,",
       "shadow.special-blocks.referral": "S:9c8d38d76b59e9e8928e6d9d876eb812c390371c,",
-      "small-elements.desktop.wheel-counter": "S:1c8e968969a663dc1c46bc876a07809f26a9e09c,",
       "small-elements.desktop.wheel-block-bg": "S:fc1b2935990b536ca42cf4abc9ce09d238aa5020,",
       "small-elements.desktop.wheel-block-bg-border": "S:1c3f40205263a81323da53e1aefaccc72c1e568a,",
       "shadow.special-blocks.wheel-widget-bg": "S:f56667e16dc112e57412dc115f1d9f88c7a3852f,",
@@ -418,7 +417,9 @@
       "special-blocks.achivements.border-1": "S:58f8f31014c8c517ec5d6e5a8599fae53069ca9a,",
       "special-blocks.wheel-widget-text": "S:125386bf63b0204e866f5453467b0b102c921864,",
       "special-blocks.achivements.card-4": "S:281d15aa3dea7824577a84c27d87cc6270726a80,",
-      "special-blocks.achivements.gradient": "S:158988b80a7b94c96f5111870d710c58fa7df528,"
+      "special-blocks.achivements.gradient": "S:158988b80a7b94c96f5111870d710c58fa7df528,",
+      "small-elements.desktop.wheel-counter-win": "S:1c8e968969a663dc1c46bc876a07809f26a9e09c,",
+      "small-elements.desktop.wheel-counter": "S:e7d89d4fe2fbbfffddce8f6c31e8eccee25a7b5f,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"
