@@ -3768,6 +3768,10 @@
     "bg all": {
       "value": "{bg.tertiary}",
       "type": "color"
+    },
+    "stroke": {
+      "value": "rgba(44, 56, 135, 0.6)",
+      "type": "color"
     }
   },
   "wheel": {

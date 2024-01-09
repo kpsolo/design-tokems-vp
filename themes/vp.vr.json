@@ -126,5 +126,11 @@
       "type": "typography",
       "description": "Title for jackpot widget"
     }
+  },
+  "tab": {
+    "stroke": {
+      "value": "255 255 255, 0.2",
+      "type": "color"
+    }
   }
 }
