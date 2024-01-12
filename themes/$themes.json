@@ -419,7 +419,8 @@
       "special-blocks.achivements.card-4": "S:281d15aa3dea7824577a84c27d87cc6270726a80,",
       "special-blocks.achivements.gradient": "S:158988b80a7b94c96f5111870d710c58fa7df528,",
       "small-elements.desktop.wheel-counter-win": "S:1c8e968969a663dc1c46bc876a07809f26a9e09c,",
-      "small-elements.desktop.wheel-counter": "S:e7d89d4fe2fbbfffddce8f6c31e8eccee25a7b5f,"
+      "small-elements.desktop.wheel-counter": "S:e7d89d4fe2fbbfffddce8f6c31e8eccee25a7b5f,",
+      "tab.stroke": "S:1d2aa9676051302c2d3d4dff4e4d382fc255ae7f,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"
