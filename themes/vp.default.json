@@ -3158,7 +3158,7 @@
         "fontWeight": "Bold",
         "lineHeight": "50px",
         "fontSize": "60px",
-        "letterSpacing": "-3%",
+        "letterSpacing": "-1.8px",
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textDecoration": "{text-decoration.none}",
