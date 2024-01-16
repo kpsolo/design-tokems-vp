@@ -2076,26 +2076,6 @@
       "type": "color",
       "description": "text for live icon"
     },
-    "now-win-bg": {
-      "value": "transparent",
-      "type": "color",
-      "description": "bg for now-live sticker"
-    },
-    "now-win-ticket": {
-      "value": "transparent",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
-    "now-win-ticket-text": {
-      "value": "transparent",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
-    "now-win-text": {
-      "value": "transparent",
-      "type": "color",
-      "description": "text for now-live sticker"
-    },
     "timer-bg": {
       "value": "transparent",
       "type": "color",
