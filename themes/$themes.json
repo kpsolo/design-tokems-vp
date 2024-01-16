@@ -757,5 +757,13 @@
     },
     "$figmaCollectionId": "VariableCollectionId:19863:313398",
     "$figmaModeId": "19863:0"
+  },
+  {
+    "id": "08f4a511078cda95f75fec966b2689f0c2eaf83f",
+    "name": "vr",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "vp.vr": "enabled"
+    }
   }
 ]
