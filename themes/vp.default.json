@@ -1944,6 +1944,10 @@
       "value": "radial-gradient(50% 50% at 50% 50%, #241198 0%, rgba(69, 83, 214, 0.00) 100%)",
       "type": "color"
     },
+    "radial-shop": {
+      "value": "radial-gradient(50% 50% at 50% 50%, #FF0606 0%, #FF9797 0%, rgba(255, 61, 61, 0.00) 100%, rgba(255, 61, 61, 0.00) 100%)",
+      "type": "color"
+    },
     "radial-additional": {
       "value": "#1D51C9",
       "type": "color",
