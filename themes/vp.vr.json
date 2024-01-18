@@ -3432,7 +3432,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #131C4F 0%, rgba(19, 28, 79, 0.67) 28.65%, rgba(19, 28, 79, 0.52) 53.65%, rgba(19, 28, 79, 0.22) 76.04%, rgba(19, 28, 79, 0.06) 89.06%, rgba(19, 28, 79, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #080D1A 0%, rgba(8, 13, 26, 0.67) 28.65%, rgba(8, 13, 26, 0.52) 53.65%, rgba(8, 13, 26, 0.22) 76.04%, rgba(the 8, 13, 26, 0.06) 89.06%, rgba(8, 13, 26, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
