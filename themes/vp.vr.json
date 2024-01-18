@@ -216,7 +216,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
@@ -231,7 +231,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.underline}"
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -246,7 +246,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
@@ -261,7 +261,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.underline}"
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -706,7 +706,7 @@
         "x": "0",
         "y": "1",
         "blur": "0",
-        "spread": "0",
+        "spread": "",
         "color": "rgba(0,0,0,0.25)",
         "type": "dropShadow"
       },
@@ -1944,8 +1944,12 @@
       "value": "radial-gradient(50% 50% at 50% 50%, #241198 0%, rgba(69, 83, 214, 0.00) 100%)",
       "type": "color"
     },
+    "radial-shop": {
+      "value": "radial-gradient(50% 50% at 50% 50%, #FF0606 0%, #FF9797 0%, rgba(255, 61, 61, 0.00) 100%, rgba(255, 61, 61, 0.00) 100%)",
+      "type": "color"
+    },
     "radial-additional": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #1D51C9 0%, rgba(29, 81, 201, 0.00) 100%)",
+      "value": "#1D51C9",
       "type": "color",
       "description": "use for elipse bg on desktop homepage"
     },
@@ -1972,10 +1976,6 @@
         }
       },
       "description": "use as bg for welcome bonus success item"
-    },
-    "radial-shop": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #FF0606 0%, #FF9797 0%, rgba(255, 61, 61, 0.00) 100%, rgba(255, 61, 61, 0.00) 100%)",
-      "type": "color"
     }
   },
   "nav": {
@@ -2066,37 +2066,37 @@
   },
   "live-lottery": {
     "live-tip": {
-      "value": "transparent",
+      "value": "#CF0404",
       "type": "color",
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "transparent",
+      "value": "linear-gradient(175deg, #3338A6 4%, #192484 30%, #0B1B53 75%, #192A87 100%)",
       "type": "color",
       "description": "Bg for card"
     },
     "live-tip-text": {
-      "value": "transparent",
+      "value": "#fff",
       "type": "color",
       "description": "text for live icon"
     },
     "timer-bg": {
-      "value": "transparent",
+      "value": "linear-gradient(180deg, rgba(108, 119, 216, 0.81) 0%, rgba(92, 107, 187, 0.78) 31.25%, rgba(68, 91, 174, 0.85) 63.54%, rgba(83, 82, 160, 0.63) 100%)",
       "type": "color",
       "description": "bg for timer"
     },
     "empty-ball": {
-      "value": "transparent",
+      "value": "linear-gradient(180deg, rgba(78, 76, 157, 0.40) 0%, rgba(120, 119, 187, 0.34) 76.5%, rgba(129, 116, 206, 0.40) 100%)",
       "type": "color",
       "description": "bg for empty ball"
     },
     "place-label-text": {
-      "value": "transparent",
+      "value": "#000",
       "type": "color",
       "description": "text on place label"
     },
     "place-label-bg": {
-      "value": "transparent",
+      "value": "linear-gradient(180deg, #FFFA8E 0%, #E8E024 40%, #D3C223 100%)",
       "type": "color",
       "description": "bg on place label"
     }
@@ -3142,11 +3142,26 @@
         "fontWeight": "Bold",
         "lineHeight": "50px",
         "fontSize": "60px",
-        "letterSpacing": "-3%",
+        "letterSpacing": "-1.8px",
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textDecoration": "{text-decoration.none}",
         "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget"
+    },
+    "live-lottery-numbers": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "Bold",
+        "lineHeight": "18px",
+        "fontSize": "18px",
+        "letterSpacing": "0",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Title for jackpot widget"
@@ -3361,21 +3376,6 @@
         "paragraphIndent": "0"
       },
       "type": "typography"
-    },
-    "live-lottery-numbers": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
-        "lineHeight": "18px",
-        "fontSize": "18px",
-        "letterSpacing": "0",
-        "paragraphSpacing": "0",
-        "paragraphIndent": "0",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography",
-      "description": "Title for jackpot widget"
     }
   },
   "filed spacing": {
