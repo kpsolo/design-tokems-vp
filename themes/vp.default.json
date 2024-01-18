@@ -2071,7 +2071,7 @@
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(175deg, #345CA8 4.27%, #193D84 26.12%, #0B2853 75.41%, #11366F 93.54%)",
+      "value": "linear-gradient(175deg, #3338A6 4%, #192484 30%, #0B1B53 75%, #192A87 100%)",
       "type": "color",
       "description": "Bg for card"
     },
