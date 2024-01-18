@@ -216,7 +216,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
@@ -231,7 +231,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.underline}"
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -246,7 +246,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
@@ -261,7 +261,7 @@
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.underline}"
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
