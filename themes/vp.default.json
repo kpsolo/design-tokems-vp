@@ -2066,37 +2066,37 @@
   },
   "live-lottery": {
     "live-tip": {
-      "value": "transparent",
+      "value": "#CF0404",
       "type": "color",
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "transparent",
+      "value": "linear-gradient(175deg, #345CA8 4.27%, #193D84 26.12%, #0B2853 75.41%, #11366F 93.54%)",
       "type": "color",
       "description": "Bg for card"
     },
     "live-tip-text": {
-      "value": "transparent",
+      "value": "#fff",
       "type": "color",
       "description": "text for live icon"
     },
     "timer-bg": {
-      "value": "transparent",
+      "value": "linear-gradient(180deg, rgba(108, 119, 216, 0.81) 0%, rgba(92, 107, 187, 0.78) 31.25%, rgba(68, 91, 174, 0.85) 63.54%, rgba(83, 82, 160, 0.63) 100%)",
       "type": "color",
       "description": "bg for timer"
     },
     "empty-ball": {
-      "value": "transparent",
+      "value": "linear-gradient(180deg, rgba(78, 76, 157, 0.40) 0%, rgba(120, 119, 187, 0.34) 76.5%, rgba(129, 116, 206, 0.40) 100%)",
       "type": "color",
       "description": "bg for empty ball"
     },
     "place-label-text": {
-      "value": "transparent",
+      "value": "#000",
       "type": "color",
       "description": "text on place label"
     },
     "place-label-bg": {
-      "value": "transparent",
+      "value": "linear-gradient(180deg, #FFFA8E 0%, #E8E024 40%, #D3C223 100%)",
       "type": "color",
       "description": "bg on place label"
     }
