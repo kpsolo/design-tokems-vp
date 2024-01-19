@@ -3329,7 +3329,7 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "title-jackpot": {
-      "value": "linear-gradient(11deg, #DBB800 27.69%, #FFF600 67.32%)",
+      "value": "linear-gradient(11deg, #DBB800 30%, #FFF600 65%)",
       "type": "color"
     },
     "amount-jackpot": {
