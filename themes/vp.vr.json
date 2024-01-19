@@ -2123,7 +2123,7 @@
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
+        "value": "linear-gradient(180deg, #FE0000 0%, #A80000 100%)",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
@@ -2142,17 +2142,17 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
+        "value": "linear-gradient(180deg, #FE0000 0%, #A80000 100%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
+        "value": "linear-gradient(180deg, #FE0000 0%, #C40000 100%)",
         "type": "color",
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
+        "value": "linear-gradient(180deg, #FE0000 0%, #A80000 100%)",
         "type": "color",
         "description": "Background for primary pressed"
       },
@@ -2167,17 +2167,17 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "secondary": {
-        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
+        "value": "linear-gradient(180deg, #0044CB 0%, #002B82 100%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
+        "value": "linear-gradient(180deg, #0053FA 0%, #0438A0 100%)",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
+        "value": "linear-gradient(180deg, #0044CB 0%, #002B82 100%)",
         "type": "color",
         "description": "Background for secondary buttons pressed"
       },
@@ -2209,17 +2209,17 @@
     },
     "border": {
       "primary": {
-        "value": "#FE0909",
+        "value": "rgba(255,255,255,0.2)",
         "type": "color",
         "description": "border color for buttons default"
       },
       "button-hover": {
-        "value": "#FFF",
+        "value": "rgba(255,255,255,0.2)",
         "type": "color",
         "description": "border color for buttons hover"
       },
       "primary-pressed": {
-        "value": "#FD0808",
+        "value": "transparent",
         "type": "color",
         "description": "border color for buttons pressed"
       },
@@ -2229,12 +2229,12 @@
         "description": "border color for buttons disabled"
       },
       "secondary": {
-        "value": "#043CCF",
+        "value": "rgba(255,255,255,0.2)",
         "type": "color",
         "description": "border color for buttons secondary"
       },
       "secondary-pressed": {
-        "value": "#043CCF",
+        "value": "transparent",
         "type": "color",
         "description": "border color for buttons secondary pressed"
       },
@@ -2350,27 +2350,27 @@
   "small-elements": {
     "game": {
       "logo-bg-default": {
-        "value": "linear-gradient(0deg, #1E2A90 0%, rgba(30, 42, 144, 0.60) 66.67%, rgba(30, 42, 144, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #17294D 0%, rgba(23, 41, 77, 0.60) 66.67%, rgba(23, 41, 77, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
       "logo-bg-tournament": {
-        "value": "linear-gradient(0deg, #9F8600 0%, rgba(159, 134, 0, 0.60) 66.67%, rgba(159, 134, 0, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #6C471D 0%, rgba(108, 71, 29, 0.60) 66.67%, rgba(108, 71, 29, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
       "thumb-default": {
-        "value": "linear-gradient(180deg, #4C72D7 0%, #1E2A90 75%)",
+        "value": "linear-gradient(180deg, #1E3666 0%, #17294D 80%)",
         "type": "color",
         "description": "Background for thumb"
       },
       "thumb-default-desktop": {
-        "value": "linear-gradient(180deg, #E1E7FF 0%, rgba(6, 16, 54, 0.57) 75%, #050D29 100%)",
+        "value": "linear-gradient(180deg, #1E3666 0%, #17294D 80%)",
         "type": "color",
         "description": "Background for thumb desktop"
       },
       "thumb-tournament": {
-        "value": "linear-gradient(180deg, #E3C662 0%, #9F8600 75%)",
+        "value": "linear-gradient(0deg, #6C471D 0%, #755125 10%, #A2824C 22%, #C2A669 48%, #D6BC7A 70%, #DEC481 80%)",
         "type": "color",
         "description": "Background for thumb"
       },
@@ -3446,7 +3446,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #080D1A 0%, rgba(8, 13, 26, 0.67) 28.65%, rgba(8, 13, 26, 0.52) 53.65%, rgba(8, 13, 26, 0.22) 76.04%, rgba(the 8, 13, 26, 0.06) 89.06%, rgba(8, 13, 26, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #000D25 0%, rgba(0, 13, 37, 0.88) 28.65%, rgba(0, 13, 37, 0.79) 55.5%, rgba(0, 13, 37, 0.66) 79.5%, rgba(0, 13, 37, 0.46) 100%)",
         "type": "color"
       },
       "sticky": {
