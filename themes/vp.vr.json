@@ -1605,7 +1605,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#0A0E29",
+      "value": "#000D26",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
@@ -1741,7 +1741,7 @@
       }
     },
     "gradient": {
-      "value": "linear-gradient(0deg, rgba(23, 34, 96, 0.00) 0%, #16225F 64.41%)",
+      "value": "linear-gradient(0deg, rgba(26, 45, 85, 0.00) 0%, #1A2D55 64.41%)",
       "type": "color",
       "description": "Gradient for bg"
     },
@@ -1955,7 +1955,7 @@
       "description": "use for circle elements on primary bg"
     },
     "radial": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #241198 0%, rgba(69, 83, 214, 0.00) 100%)",
+      "value": "radial-gradient(50% 50% at 50% 50%, #1D51C9 0%, rgba(24,42,79,0.6) 100%)",
       "type": "color"
     },
     "radial-shop": {
@@ -1963,7 +1963,7 @@
       "type": "color"
     },
     "radial-additional": {
-      "value": "#1D51C9",
+      "value": "rgba(24,42,79,0.6)",
       "type": "color",
       "description": "use for elipse bg on desktop homepage"
     },
@@ -2038,7 +2038,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#0C1337",
+      "value": "#061940",
       "type": "color",
       "description": "main color for brand bgs"
     },
