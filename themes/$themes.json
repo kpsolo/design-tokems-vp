@@ -368,7 +368,7 @@
       "special-blocks.verification-card-text": "S:7a02cb7b26fd279700b6d7c720e23325fb66ece2,",
       "special-blocks.verification-passport-text": "S:071b831e6ef521320c3e669c508598cfccd4bc36,",
       "shadow.tapbar": "S:6a0d52cece27f75435b553261f374181bb8be130,",
-      "shadow.tab": "S:6e621b41a0d037f6d6398d3c0854f93217e343a2,",
+      "shadow.tab": "S:4c7a0eac14fbcfae441634f1d60a688d1fdaa932,",
       "shadow.tab-content": "S:18cee1ca2c364fb7250a64433bcf2ea652dcc3a9,",
       "shadow.card": "S:a17d37c2070d3d39595fcbffacb8ba28ed910ef4,",
       "shadow.card-additional": "S:8f442f4127f561ea31fcdd30740e5153778aba54,",
@@ -416,7 +416,10 @@
       "special-blocks.achivements.gradient": "S:158988b80a7b94c96f5111870d710c58fa7df528,",
       "small-elements.desktop.wheel-counter-win": "S:1c8e968969a663dc1c46bc876a07809f26a9e09c,",
       "small-elements.desktop.wheel-counter": "S:e7d89d4fe2fbbfffddce8f6c31e8eccee25a7b5f,",
-      "tab.stroke": "S:1d2aa9676051302c2d3d4dff4e4d382fc255ae7f,"
+      "tab.stroke": "S:1d2aa9676051302c2d3d4dff4e4d382fc255ae7f,",
+      "bg.radial-shop": "S:bb8529c8af003f2c161fe4dbd3998795bbd1f295,",
+      "typography.button-text-ml": "S:5be46044d473882211dec82992b1174d5dc1d9c4,",
+      "special-blocks.live-lottery-numbers": "S:8d439ae39da79e06a5e28cda22305e5e4abff79d,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"
