@@ -962,7 +962,7 @@
           "y": "0",
           "blur": "16",
           "spread": "0",
-          "color": "rgba(172,38,255,0.4)",
+          "color": "rgba(83,100,254,0.4)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1651,7 +1651,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#0F0E26",
+        "value": "#000D26",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -2118,7 +2118,7 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(30,89,169,0.2)",
+        "value": "rgba(65,101,151,0.2)",
         "type": "color",
         "description": "Use for tapbar on mainpage, strip"
       },
@@ -2494,7 +2494,7 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "proggress-bar": {
-      "value": "linear-gradient(180deg, #3075FF 0%, #0046D1 100%)",
+      "value": "linear-gradient(180deg, #488FD1 0%, #0953AA 100%)",
       "type": "color"
     },
     "bullet": {
@@ -2608,17 +2608,17 @@
         "description": "Color of counter for desktop whell widget"
       },
       "wheel-counter": {
-        "value": "linear-gradient(180deg, #6409CC 0%, #A759FF 75%)",
+        "value": "linear-gradient(180deg, #3009CC 0%, #4555E0 75%)",
         "type": "color",
         "description": "Color of counter for desktop wheel widget"
       },
       "wheel-block-bg": {
-        "value": "linear-gradient(180deg, #1c2e8d 0%, rgba(49, 58, 108, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #2E4580 0%, rgba(46, 69, 128, 0.00) 100%)",
         "type": "color",
         "description": "Color desktop bg wheel widget"
       },
       "wheel-block-bg-border": {
-        "value": "rgba(175,94,255,0.6)",
+        "value": "rgba(94,140,255,0.6)",
         "type": "color",
         "description": "Color desktop border wheel widget"
       },
@@ -3446,7 +3446,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #000D25 0%, rgba(0, 13, 37, 0.88) 28.65%, rgba(0, 13, 37, 0.79) 55.5%, rgba(0, 13, 37, 0.66) 79.5%, rgba(0, 13, 37, 0.46) 100%)",
+        "value": "linear-gradient(180deg, #000D25 0%, rgba(0, 13, 37, 0.88) 28.65%, rgba(0, 13, 37, 0.79) 60%, rgba(0, 13, 37, 0.66) 80%, rgba(0, 13, 37, 0) 100%)",
         "type": "color"
       },
       "sticky": {
