@@ -1741,7 +1741,7 @@
       }
     },
     "gradient": {
-      "value": "linear-gradient(0deg, rgba(26, 45, 85, 0.00) 0%, #1A2D55 64.41%)",
+      "value": "linear-gradient(0deg, rgba(19, 30, 53, 0.00) 0%, #131E35 64.41%)",
       "type": "color",
       "description": "Gradient for bg"
     },
