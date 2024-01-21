@@ -1517,7 +1517,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "8px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -1641,7 +1641,7 @@
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "linear-gradient(101deg, rgba(43, 95, 172, 0.60) 5.63%, rgba(23, 31, 103, 0.60) 92.98%)",
+        "value": "linear-gradient(101deg, rgba(52, 71, 98, 0.60) 5.63%, rgba(23, 45, 103, 0.60) 92.98%)",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -1666,7 +1666,7 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "linear-gradient(180deg, #25317C 0%, #2D3A84 100%)",
+        "value": "linear-gradient(180deg, #1E3666 0%, #17294D 100%)",
         "type": "color",
         "description": "color for desktop sidebar"
       },
@@ -1705,7 +1705,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "#111B4F",
+        "value": "#000D26",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
@@ -1746,7 +1746,7 @@
       "description": "Gradient for bg"
     },
     "additional": {
-      "value": "#1A2252",
+      "value": "linear-gradient(180deg, #1E3666 0%, #17294D 100%)",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1761,7 +1761,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(162deg, #464BBB 10.93%, #2A2D62 86.59%)",
+      "value": "linear-gradient(162deg, #5976AF 10.93%, #1D3360 86.59%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2355,7 +2355,7 @@
         "description": "Background for provider logo on game thumb"
       },
       "logo-bg-tournament": {
-        "value": "linear-gradient(0deg, #6C471D 0%, rgba(108, 71, 29, 0.60) 66.67%, rgba(108, 71, 29, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #886535 0%, rgba(136, 101, 53, 0.60) 66.67%, rgba(136, 101, 53, 0) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
