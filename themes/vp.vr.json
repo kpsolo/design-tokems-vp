@@ -3425,7 +3425,7 @@
   "categories": {
     "bg": {
       "main": {
-        "value": "rgba(144, 161, 252, 0.20)",
+        "value": "rgba(69,100,161,0.2)",
         "type": "color",
         "description": "use for game catwgories bg"
       }
