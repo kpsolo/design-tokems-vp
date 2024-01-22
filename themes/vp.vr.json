@@ -18,7 +18,7 @@
     "caption-extrasmall-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
+        "fontWeight": "Medium",
         "lineHeight": "14px",
         "fontSize": "10px",
         "letterSpacing": "0",
@@ -92,7 +92,7 @@
     "caption-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
+        "fontWeight": "Medium",
         "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -166,7 +166,7 @@
     "body-1-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
+        "fontWeight": "Medium",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -181,7 +181,7 @@
     "body-1-strong-cross": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
+        "fontWeight": "Medium",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -313,7 +313,7 @@
     "title-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
+        "fontWeight": "Medium",
         "lineHeight": "24px",
         "fontSize": "16px",
         "letterSpacing": "0",
@@ -358,7 +358,7 @@
     "title-1-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "Bold",
+        "fontWeight": "Medium",
         "lineHeight": "32px",
         "fontSize": "24px",
         "letterSpacing": "0",
@@ -388,7 +388,7 @@
     "title-2-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "Bold",
+        "fontWeight": "Medium",
         "lineHeight": "26px",
         "fontSize": "20px",
         "letterSpacing": "0",
@@ -2013,7 +2013,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFD400",
+      "value": "#e6d566",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -2968,7 +2968,7 @@
       "description": "Border width for provider and category navigation"
     },
     "button": {
-      "value": "2px",
+      "value": "1px",
       "type": "borderWidth",
       "description": "Border width for buttons"
     },
@@ -3153,7 +3153,7 @@
     "jackpot-title": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
+        "fontWeight": "ExtraBold",
         "lineHeight": "50px",
         "fontSize": "60px",
         "letterSpacing": "-1.8px",
@@ -3233,7 +3233,7 @@
     "jackpot-amount-desktop": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "Bold",
+        "fontWeight": "ExtraBold",
         "lineHeight": "44px",
         "fontSize": "38px",
         "letterSpacing": "0",
@@ -3263,7 +3263,7 @@
     "404-500-large": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "Bold",
+        "fontWeight": "ExtraBold",
         "lineHeight": "250px",
         "fontSize": "280px",
         "letterSpacing": "0",
