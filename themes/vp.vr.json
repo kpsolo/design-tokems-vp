@@ -2118,12 +2118,12 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(65,101,151,0.2)",
+        "value": "rgba(91,153,205,0.2)",
         "type": "color",
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #FE0000 0%, #A80000 100%)",
+        "value": "linear-gradient(180deg, #0053FA 0%, #0438A0 100%)",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
@@ -3446,7 +3446,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #000D25 0%, rgba(0, 13, 37, 0.88) 28.65%, rgba(0, 13, 37, 0.79) 60%, rgba(0, 13, 37, 0.66) 80%, rgba(0, 13, 37, 0) 100%)",
+        "value": "linear-gradient(180deg, #000D25 0%, rgba(0, 13, 37, 1) 28.65%, rgba(0, 13, 37, 0.8) 60%, rgba(0, 13, 37, 0.7) 80%, rgba(0, 13, 37, 0.6) 100%)",
         "type": "color"
       },
       "sticky": {
