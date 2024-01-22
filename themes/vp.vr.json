@@ -951,7 +951,7 @@
           "y": "0",
           "blur": "12",
           "spread": "0",
-          "color": "#FFF600",
+          "color": "#FFD874",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1026,7 +1026,7 @@
             "y": "-1",
             "blur": "16",
             "spread": "",
-            "color": "rgba(255, 246, 0, 0.40)",
+            "color": "rgba(255, 216, 116, 0.40)",
             "type": "dropShadow"
           }
         ],
@@ -3328,7 +3328,7 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "title-jackpot": {
-      "value": "linear-gradient(11deg, #DBB800 27.69%, #FFF600 67.32%)",
+      "value": "linear-gradient(11deg, #9E8137 27.69%, #FFD874 67.32%)",
       "type": "color"
     },
     "amount-jackpot": {
