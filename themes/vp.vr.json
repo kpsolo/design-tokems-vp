@@ -2013,7 +2013,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFF602",
+      "value": "#FFD400",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -3054,11 +3054,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Trebuchet MS",
+      "value": "Open Sans",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Trebuchet MS",
+      "value": "Open Sans",
       "type": "fontFamilies"
     }
   },
@@ -3849,7 +3849,7 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "#EAB007",
+        "value": "#FFD400",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
@@ -3864,7 +3864,7 @@
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "#6108CB",
+        "value": "#3611df",
         "type": "color",
         "description": "use for sectors bg (type1) - start "
       },
@@ -3899,7 +3899,7 @@
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "border-sector": {
-        "value": "#C9D2FF",
+        "value": "#c9e0ff",
         "type": "color",
         "description": "use for borders in sectors"
       }
@@ -4044,7 +4044,7 @@
         "type": "color"
       },
       "bottom": {
-        "value": "#9341F0",
+        "value": "#4169f0",
         "type": "color",
         "description": "use as bg under wheel main border"
       }
