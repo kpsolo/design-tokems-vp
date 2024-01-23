@@ -2513,7 +2513,7 @@
     },
     "badge": {
       "1": {
-        "value": "#CF0404",
+        "value": "#0248D6",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
@@ -2603,7 +2603,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "wheel-counter-win": {
-        "value": "linear-gradient(180deg, #7D5D2E 0%, #B58F2F 75%)",
+        "value": "linear-gradient(180deg, #6F5A26 0%, #B58F2F 75%)",
         "type": "color",
         "description": "Color of counter for desktop whell widget"
       },
