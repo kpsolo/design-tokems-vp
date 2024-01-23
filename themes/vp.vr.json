@@ -1492,7 +1492,7 @@
   },
   "radius": {
     "card": {
-      "value": "10px",
+      "value": "6px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
@@ -1656,7 +1656,7 @@
         "description": "Background color for footer"
       },
       "1click": {
-        "value": "{bg.tertiary}",
+        "value": "#1E3666",
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
