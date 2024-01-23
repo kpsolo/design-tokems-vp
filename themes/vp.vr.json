@@ -746,7 +746,7 @@
           "y": "0",
           "blur": "4",
           "spread": "0",
-          "color": "#fff",
+          "color": "#8fc1f4",
           "type": "dropShadow"
         },
         {
@@ -754,7 +754,7 @@
           "y": "0",
           "blur": "8",
           "spread": "0",
-          "color": "#fff",
+          "color": "#8fc1f4",
           "type": "dropShadow"
         }
       ],
@@ -2603,7 +2603,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "wheel-counter-win": {
-        "value": "linear-gradient(180deg, #190000 0%, #F00 75%)",
+        "value": "linear-gradient(180deg, #7D5D2E 0%, #B58F2F 75%)",
         "type": "color",
         "description": "Color of counter for desktop whell widget"
       },
