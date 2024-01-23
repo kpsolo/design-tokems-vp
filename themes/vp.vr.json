@@ -1095,6 +1095,20 @@
         "type": "boxShadow",
         "description": "use as dropshadow card for big numbers in referral program"
       }
+    },
+    "checkbox-radio": {
+      "value": [
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "",
+          "color": "rgba(255,255,255,0.6)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "inner shadow for checkbox and radio"
     }
   },
   "border": {

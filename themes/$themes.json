@@ -419,7 +419,8 @@
       "tab.stroke": "S:1d2aa9676051302c2d3d4dff4e4d382fc255ae7f,",
       "bg.radial-shop": "S:bb8529c8af003f2c161fe4dbd3998795bbd1f295,",
       "typography.button-text-ml": "S:5be46044d473882211dec82992b1174d5dc1d9c4,",
-      "special-blocks.live-lottery-numbers": "S:8d439ae39da79e06a5e28cda22305e5e4abff79d,"
+      "special-blocks.live-lottery-numbers": "S:8d439ae39da79e06a5e28cda22305e5e4abff79d,",
+      "shadow.checkbox-radio": "S:bb5d47ba7981ecd1d351072d97acdcf59f69336c,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"

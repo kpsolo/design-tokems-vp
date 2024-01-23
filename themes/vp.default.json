@@ -574,6 +574,20 @@
       "type": "boxShadow",
       "description": "Shadow for sticky bar, modal for download app"
     },
+    "checkbox-radio": {
+      "value": [
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "",
+          "color": "rgba(0,0,0,0.6)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "inner shadow for checkbox and radio"
+    },
     "tab": {
       "value": [
         {
