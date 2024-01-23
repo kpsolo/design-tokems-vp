@@ -2039,7 +2039,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#0C1337",
+      "value": "#11163C",
       "type": "color",
       "description": "main color for brand bgs"
     },
