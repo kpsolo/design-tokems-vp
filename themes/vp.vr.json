@@ -3473,7 +3473,7 @@
         "description": "bg header on top for desktop"
       },
       "bottom-desktop": {
-        "value": "linear-gradient(180deg, #10123F 0%, rgba(16, 18, 63, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #0D1733 0%, rgba(13, 23, 51, 0.00) 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
