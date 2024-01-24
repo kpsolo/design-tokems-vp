@@ -3468,7 +3468,7 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#10123F",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "bg header on top for desktop"
       },
