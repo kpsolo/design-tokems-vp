@@ -590,7 +590,7 @@
     "tab-content": {
       "value": [
         {
-          "color": "{base.accent-primary}",
+          "color": "{base.accent-secondary}",
           "type": "dropShadow",
           "x": "0",
           "y": "0",
@@ -768,7 +768,7 @@
           "y": "0",
           "blur": "4",
           "spread": "0",
-          "color": "#fff",
+          "color": "{base.accent-primary}",
           "type": "dropShadow"
         }
       ],
@@ -1177,7 +1177,7 @@
     },
     "tab": {
       "value": {
-        "color": "{button.border.ghost}",
+        "color": "transparent",
         "style": "solid",
         "width": "{border-width.button}"
       },
@@ -1619,7 +1619,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#000D26",
+      "value": "linear-gradient(180deg, #1E3666 0%, #17294D 100%)",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
@@ -2032,7 +2032,7 @@
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#FCFF71",
+      "value": "#7FAAFF",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -2330,12 +2330,12 @@
         "description": "color on ghost buttons"
       },
       "ghost-hover": {
-        "value": "#fff600",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "color on ghost buttons hover"
       },
       "ghost-pressed": {
-        "value": "{base.accent-primary}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "color on ghost buttons hover"
       },
