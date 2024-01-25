@@ -1565,7 +1565,7 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "8px",
+      "value": "6px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
@@ -2600,12 +2600,12 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#00437B",
+        "value": "#003c7a",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
-        "value": "#0B63AD",
+        "value": "#0a49ad",
         "type": "color",
         "description": "use for border in default state"
       }
@@ -3320,7 +3320,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#313D81",
+      "value": "#203C74",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
