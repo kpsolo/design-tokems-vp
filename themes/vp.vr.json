@@ -2369,7 +2369,7 @@
         "description": "Background for provider logo on game thumb"
       },
       "logo-bg-tournament": {
-        "value": "linear-gradient(0deg, #886535 0%, rgba(136, 101, 53, 0.60) 66.67%, rgba(136, 101, 53, 0) 100%)",
+        "value": "linear-gradient(0deg, #805D2E 0%, rgba(128, 93, 46, 0.60) 66.67%, rgba(128, 93, 46, 0) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
@@ -3439,7 +3439,7 @@
   "categories": {
     "bg": {
       "main": {
-        "value": "rgba(69,100,161,0.2)",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "use for game catwgories bg"
       }
