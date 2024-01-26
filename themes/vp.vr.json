@@ -1541,7 +1541,7 @@
       "description": "Radius for counter"
     },
     "tap-bar": {
-      "value": "2px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
