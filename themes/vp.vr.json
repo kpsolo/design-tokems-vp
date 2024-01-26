@@ -2600,12 +2600,12 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#003c7a",
+        "value": "#123a61",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
-        "value": "#0a49ad",
+        "value": "#2c5a82",
         "type": "color",
         "description": "use for border in default state"
       }
