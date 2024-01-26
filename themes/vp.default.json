@@ -1750,7 +1750,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "banner-title": {
-        "value": "rgba(3,4,26, 0.4)",
+        "value": "transparent",
         "type": "color",
         "description": "Bg under title on banner"
       }
