@@ -1650,7 +1650,7 @@
         "description": "for cashbox bonus popup content"
       },
       "promo": {
-        "value": "linear-gradient(130deg, #463782 0%, #121746 100%)",
+        "value": "linear-gradient(130deg, #173268 0%, #131E36 100%)",
         "type": "color",
         "description": "Main banner background"
       },
