@@ -1614,7 +1614,7 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#16225D",
+      "value": "#192542",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
@@ -1755,7 +1755,7 @@
       }
     },
     "gradient": {
-      "value": "linear-gradient(0deg, rgba(19, 30, 53, 0.00) 0%, #131E35 64.41%)",
+      "value": "linear-gradient(0deg, rgba(25, 37, 66, 0.00) 0%, #192542 64.41%)",
       "type": "color",
       "description": "Gradient for bg"
     },
@@ -1780,12 +1780,12 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "widget-disabled": {
-      "value": "linear-gradient(114deg, #26256D 23.29%, #0D113B 98.01%)",
+      "value": "linear-gradient(114deg, #2D3F6C 23.29%, #243365 98.01%)",
       "type": "color",
       "description": "for past tournament,lottery"
     },
     "widget-default": {
-      "value": "linear-gradient(180deg, #4932D3 0%, #1E2A90 100%)",
+      "value": "linear-gradient(180deg, #416EB0 0%, #2E539C 100%)",
       "type": "color",
       "description": "for tournament on main page, news, lottery"
     },
@@ -2077,7 +2077,7 @@
       "description": "Color for winners"
     },
     "bronze": {
-      "value": "#FFB053",
+      "value": "#D8A962",
       "type": "color",
       "description": "Color for winners"
     },
@@ -2673,12 +2673,12 @@
     },
     "up-button": {
       "accent": {
-        "value": "#216BFF",
+        "value": "#217FED",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
       "hover-bg": {
-        "value": "linear-gradient(180deg, #83ADFF 23.44%, #3075FF 100%)",
+        "value": "linear-gradient(180deg, #ABD1FF 23.44%, #217FED 100%)",
         "type": "color",
         "description": "Bg on hover on floating button"
       },
@@ -2787,7 +2787,7 @@
     },
     "prize": {
       "1": {
-        "value": "#C5AD17",
+        "value": "#D5BA5B",
         "type": "color",
         "description": "[delete?]"
       },
