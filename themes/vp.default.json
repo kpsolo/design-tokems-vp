@@ -3129,6 +3129,11 @@
         "type": "color",
         "description": "for empty cards zone"
       },
+      "gradient-1": {
+        "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
+        "type": "color",
+        "description": "for empty cards zone / desktop"
+      },
       "border-2": {
         "value": "#1F3189",
         "type": "color",

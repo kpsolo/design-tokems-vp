@@ -3152,6 +3152,11 @@
         "value": "rgba(45, 124, 231, 0.08)",
         "type": "color",
         "description": "achivements card"
+      },
+      "gradient-1": {
+        "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
+        "type": "color",
+        "description": "for empty cards zone / desktop"
       }
     },
     "jackpot-border-2": {
