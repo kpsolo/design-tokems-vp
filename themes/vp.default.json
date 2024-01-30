@@ -1846,12 +1846,12 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.8",
               "space": "srgb"
             }
           }
         },
-        "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
+        "description": "Use for underlay of elements on top (star, counter)\ningame back button bg, overlay under popups desktop/modals mobile"
       },
       "right-menu": {
         "value": "rgba(14, 26, 57, 0.60)",
