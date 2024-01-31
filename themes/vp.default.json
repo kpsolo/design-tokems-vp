@@ -1501,7 +1501,7 @@
     },
     "nav-tabs": {
       "value": {
-        "color": "rgba(255, 255, 255, 0.1)",
+        "color": "transparent",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -3496,7 +3496,7 @@
         "description": "use for game catwgories bg"
       },
       "tabs": {
-        "value": "{bg.tertiary}",
+        "value": "transparent",
         "type": "color",
         "description": "use for game catwgories bg"
       }
