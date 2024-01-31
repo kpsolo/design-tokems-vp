@@ -1064,7 +1064,7 @@
             "x": "2",
             "y": "0",
             "blur": "2",
-            "spread": "0",
+            "spread": "",
             "color": "#000000",
             "type": "innerShadow"
           }
