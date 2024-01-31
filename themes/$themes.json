@@ -1176,7 +1176,10 @@
       "shadow.special-blocks.wheel.main": "S:e75ea23dff16ca9f19d96d946d02ad406bec3f7d,",
       "shadow.special-blocks.wheel.additional": "S:4df656fb45e7bffcdee46376661ce02a4911e5b2,",
       "shadow.special-blocks.card": "S:aab37c5a7e0fb9428ed9e473f2c240a20d16e969,",
-      "shadow.special-blocks.referral": "S:c2b9315ad2e9e39ecb824eecbe826076bf40d14f,"
+      "shadow.special-blocks.referral": "S:c2b9315ad2e9e39ecb824eecbe826076bf40d14f,",
+      "special-blocks.achivements.gradient-1": "S:0d330ff0f2c287b1fd4cd30aa562cd11f54a933c,",
+      "shadow.special-blocks.main-banner-title": "S:e96efcdb1ad75acabd6ed0743e39868110335f37,",
+      "shadow.checkbox-radio": "S:d5b3a46972f2997c68a53d2d4420beae463bc9a1,"
     },
     "selectedTokenSets": {
       "vp.vr": "enabled"
