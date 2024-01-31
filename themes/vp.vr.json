@@ -1710,7 +1710,7 @@
         "description": "Global background for strip banners"
       },
       "sidebar-game": {
-        "value": "rgba(22, 34, 66, 0.40)",
+        "value": "rgba(9,47,103,0.4)",
         "type": "color",
         "description": "Bg for sidebar on gamepage (desktop)"
       },
@@ -1853,7 +1853,7 @@
         "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
       },
       "right-menu": {
-        "value": "rgba(14, 26, 57, 0.60)",
+        "value": "rgba(15,51,110,0.6)",
         "type": "color",
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
