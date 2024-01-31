@@ -420,7 +420,9 @@
       "bg.radial-shop": "S:bb8529c8af003f2c161fe4dbd3998795bbd1f295,",
       "typography.button-text-ml": "S:5be46044d473882211dec82992b1174d5dc1d9c4,",
       "special-blocks.live-lottery-numbers": "S:8d439ae39da79e06a5e28cda22305e5e4abff79d,",
-      "shadow.checkbox-radio": "S:bb5d47ba7981ecd1d351072d97acdcf59f69336c,"
+      "shadow.checkbox-radio": "S:bb5d47ba7981ecd1d351072d97acdcf59f69336c,",
+      "special-blocks.achivements.gradient-1": "S:9c3e23272ff85d650142d9e997d2d768ceaffd2a,",
+      "shadow.special-blocks.main-banner-title": "S:3c894cfd7feb569c3f9148fe05b9bbf84a48c9d9,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"

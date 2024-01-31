@@ -1094,6 +1094,43 @@
         ],
         "type": "boxShadow",
         "description": "use as dropshadow card for big numbers in referral program"
+      },
+      "main-banner-title": {
+        "value": [
+          {
+            "x": "0",
+            "y": "2",
+            "blur": "2",
+            "spread": "",
+            "color": "#000",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "-2",
+            "blur": "2",
+            "spread": "",
+            "color": "#000",
+            "type": "dropShadow"
+          },
+          {
+            "x": "-2",
+            "y": "0",
+            "blur": "2",
+            "spread": "",
+            "color": "#000",
+            "type": "dropShadow"
+          },
+          {
+            "x": "2",
+            "y": "0",
+            "blur": "2",
+            "spread": "0",
+            "color": "#000000",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "checkbox-radio": {
