@@ -1215,7 +1215,7 @@
     },
     "tab": {
       "value": {
-        "color": "{button.border.ghost}",
+        "color": "transparent",
         "style": "solid",
         "width": "{border-width.button}"
       },
