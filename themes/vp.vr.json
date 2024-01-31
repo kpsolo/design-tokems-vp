@@ -1338,15 +1338,6 @@
       "type": "border",
       "description": "border for show more wiget on main page"
     },
-    "nav-tabs": {
-      "value": {
-        "color": "rgba(255, 255, 255, 0.1)",
-        "width": "{border-width.nav}",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "border for tabs"
-    },
     "right-menu": {
       "value": {
         "color": "rgba(0,0,0,0.6)",
@@ -3490,11 +3481,6 @@
   "categories": {
     "bg": {
       "main": {
-        "value": "{bg.tertiary}",
-        "type": "color",
-        "description": "use for game catwgories bg"
-      },
-      "tabs": {
         "value": "{bg.tertiary}",
         "type": "color",
         "description": "use for game catwgories bg"
