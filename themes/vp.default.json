@@ -1498,15 +1498,6 @@
         "type": "border",
         "description": "lines inside referral link card "
       }
-    },
-    "nav-tabs": {
-      "value": {
-        "color": "transparent",
-        "width": "{border-width.nav}",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "border for tabs"
     }
   },
   "base spacing": {
@@ -3492,11 +3483,6 @@
     "bg": {
       "main": {
         "value": "rgba(144, 161, 252, 0.20)",
-        "type": "color",
-        "description": "use for game catwgories bg"
-      },
-      "tabs": {
-        "value": "transparent",
         "type": "color",
         "description": "use for game catwgories bg"
       }
