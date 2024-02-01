@@ -4112,5 +4112,17 @@
       "value": "0px",
       "type": "sizing"
     }
+  },
+  "header-position": {
+    "top": {
+      "value": "12px",
+      "type": "spacing",
+      "description": "desktop header position 1096"
+    },
+    "left": {
+      "value": "42px",
+      "type": "spacing",
+      "description": "desktop header position 1096"
+    }
   }
 }
