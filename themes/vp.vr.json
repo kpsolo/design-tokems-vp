@@ -1684,7 +1684,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "linear-gradient(118deg, #464BBB 18.04%, #1C2976 82.33%)",
+        "value": "linear-gradient(118deg, #466EBB 18.04%, #022B7C 82.33%)",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -1724,7 +1724,7 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "#C9D5FF",
+        "value": "#c9e1ff",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
@@ -2106,7 +2106,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#F30000",
+      "value": "#d40000",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -3579,7 +3579,7 @@
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#373ECE",
+      "value": "#386acf",
       "type": "color",
       "description": "use for links on lighter bg (notifications), game page"
     },
