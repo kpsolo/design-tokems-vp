@@ -1819,7 +1819,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "popup": {
-      "value": "#021f55",
+      "value": "#1C325D",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -2058,12 +2058,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#1F2D7B",
+        "value": "{bg.popup}",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#10123F",
+        "value": "{bg.popup}",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
