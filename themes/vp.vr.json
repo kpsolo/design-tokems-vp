@@ -3952,7 +3952,7 @@
         "description": "use for bg elipse on main bg under wheel"
       },
       "main": {
-        "value": "linear-gradient(180deg, #4F1250 0%, #1C1038 100%)",
+        "value": "linear-gradient(180deg, #0C0376 0%, #181039 100%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       },
