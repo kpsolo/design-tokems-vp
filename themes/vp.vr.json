@@ -3708,11 +3708,11 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "linear-gradient(180deg, #020532 0%, #181B49 100%)",
+        "value": "linear-gradient(180deg, #020F32 0%, #0E1F5B 100%)",
         "type": "color"
       },
       "item-default": {
-        "value": "#020532",
+        "value": "#021442",
         "type": "color",
         "description": "bg for menu\n\n(delete?)"
       },
@@ -3734,17 +3734,17 @@
         "type": "color"
       },
       "banner": {
-        "value": "linear-gradient(180deg, #201F3B 0%, #353877 100%)",
+        "value": "linear-gradient(180deg, #1F233B 0%, #354477 100%)",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "linear-gradient(180deg, #043CCF 0%, #345BDD 47.92%, #1434A5 50.52%, #112590 100%);",
+        "value": "{button.bg.secondary}",
         "type": "color",
         "description": "use for special notification in menu items"
       },
       "info": {
-        "value": "#10175E",
+        "value": "#051842",
         "type": "color",
         "description": "use as bg in menu info zone"
       }
@@ -3755,7 +3755,7 @@
       "description": "Color of icon and text inside active item menu"
     },
     "subitem": {
-      "value": "#92BBDE",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "Menu sub item/ icon color"
     }
