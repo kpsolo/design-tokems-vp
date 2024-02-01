@@ -1651,7 +1651,7 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#192542",
+      "value": "#0E2049",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
@@ -1792,7 +1792,7 @@
       }
     },
     "gradient": {
-      "value": "linear-gradient(0deg, rgba(25, 37, 66, 0.00) 0%, #192542 64.41%)",
+      "value": "linear-gradient(0deg, rgba(14, 32, 73, 0.00) 0%, #0E2049 64.41%)",
       "type": "color",
       "description": "Gradient for bg"
     },
@@ -1807,7 +1807,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "popup": {
-      "value": "#061940",
+      "value": "#021f55",
       "type": "color",
       "description": "use for popups bg"
     },
