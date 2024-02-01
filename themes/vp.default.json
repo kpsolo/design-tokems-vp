@@ -4115,12 +4115,12 @@
   },
   "header-position": {
     "top": {
-      "value": "12px",
+      "value": "4px",
       "type": "spacing",
       "description": "desktop header position 1096"
     },
     "left": {
-      "value": "42px",
+      "value": "12px",
       "type": "spacing",
       "description": "desktop header position 1096"
     }
