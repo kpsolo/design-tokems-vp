@@ -1957,7 +1957,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(12, 19, 55, 0.00) 0%, #0C1337 61.63%, #0C1337 100%)",
+        "value": "linear-gradient(180deg, rgba(6, 25, 64, 0.00) 0%, #061940 61.63%, #061940 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
@@ -2106,7 +2106,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#CF0000",
+      "value": "#F30000",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
