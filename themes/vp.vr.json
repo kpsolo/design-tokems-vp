@@ -3168,7 +3168,7 @@
     },
     "achivements": {
       "border-1": {
-        "value": "#3B2F86",
+        "value": "#2f3f87",
         "type": "color",
         "description": "border for activity card"
       },
