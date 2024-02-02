@@ -1548,7 +1548,7 @@
       "description": "desktop header position 1096"
     },
     "left": {
-      "value": "42px",
+      "value": "25px",
       "type": "spacing",
       "description": "desktop header position 1096"
     }
