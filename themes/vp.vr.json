@@ -1140,7 +1140,7 @@
           "y": "4",
           "blur": "4",
           "spread": "",
-          "color": "rgba(255,255,255,0.6)",
+          "color": "rgba(0,0,0,0.6)",
           "type": "innerShadow"
         }
       ],
