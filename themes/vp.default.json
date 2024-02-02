@@ -1792,7 +1792,7 @@
         "description": "Bg under title on banner"
       },
       "tab-inactive": {
-        "value": "#16195a",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "Inactive tabs in profile popup"
       }
