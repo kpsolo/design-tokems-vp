@@ -1801,6 +1801,11 @@
         "value": "rgba(3,4,26, 0.4)",
         "type": "color",
         "description": "Bg under title on banner"
+      },
+      "tab-inactive": {
+        "value": "#162749",
+        "type": "color",
+        "description": "Inactive tabs in profile popup"
       }
     },
     "gradient": {
@@ -3077,7 +3082,7 @@
       "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
-      "value": "88",
+      "value": "100px",
       "type": "sizing",
       "description": "use for mobile logo width "
     },

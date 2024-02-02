@@ -1790,6 +1790,11 @@
         "value": "transparent",
         "type": "color",
         "description": "Bg under title on banner"
+      },
+      "tab-inactive": {
+        "value": "#162749",
+        "type": "color",
+        "description": "Inactive tabs in profile popup"
       }
     },
     "gradient": {
