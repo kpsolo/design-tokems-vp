@@ -1674,7 +1674,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, #282570 0%, #040927 99.97%)",
+        "value": "linear-gradient(180deg, #213A95 0%, #001752 99.97%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
