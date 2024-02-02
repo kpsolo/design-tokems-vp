@@ -3104,7 +3104,7 @@
       "description": "use for mobile logo height "
     },
     "logo-desktop": {
-      "value": "30",
+      "value": "70px",
       "type": "sizing",
       "description": "use for desktop logo height "
     }
