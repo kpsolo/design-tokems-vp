@@ -4120,7 +4120,7 @@
       "description": "desktop header position 1096"
     },
     "left": {
-      "value": "12px",
+      "value": "-4px",
       "type": "spacing",
       "description": "desktop header position 1096"
     }
