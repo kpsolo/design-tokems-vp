@@ -1127,7 +1127,7 @@
             "blur": "2",
             "spread": "",
             "color": "#00123c",
-            "type": "innerShadow"
+            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"
