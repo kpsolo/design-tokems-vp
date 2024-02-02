@@ -2511,6 +2511,11 @@
         "type": "color",
         "description": "border color for separating groups of table rows/colums,footer "
       },
+      "primary-copy": {
+        "value": "rgba(255,255,255,1)",
+        "type": "color",
+        "description": "border frame on main page"
+      },
       "item": {
         "value": "{base.dark}",
         "type": "color",

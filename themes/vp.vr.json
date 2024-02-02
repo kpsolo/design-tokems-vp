@@ -2554,6 +2554,11 @@
         "value": "rgba(7, 10, 30, 0.70)",
         "type": "color",
         "description": "use in mob registation tabs"
+      },
+      "primary-copy": {
+        "value": "rgba(255,255,255,1)",
+        "type": "color",
+        "description": "border frame on main page"
       }
     },
     "progress-large": {
