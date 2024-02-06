@@ -576,7 +576,7 @@
     "tab": {
       "value": [
         {
-          "color": "#fff",
+          "color": "{base.accent-secondary}",
           "type": "dropShadow",
           "x": "0",
           "y": "0",
