@@ -1463,8 +1463,8 @@
     "special-blocks": {
       "jackpot-border": {
         "value": {
-          "color": "#D2E5FF",
-          "width": "2px",
+          "color": "{special-blocks.jackpot-border}",
+          "width": "1px",
           "style": "solid"
         },
         "type": "border",
@@ -3172,7 +3172,7 @@
   },
   "special-blocks": {
     "jackpot-border": {
-      "value": "#D2E5FF",
+      "value": "rgba(179,173,0,0.2)",
       "type": "color",
       "description": "Border-color for jackpot widgets"
     },
