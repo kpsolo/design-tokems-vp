@@ -3172,7 +3172,7 @@
   },
   "special-blocks": {
     "jackpot-border": {
-      "value": "rgba(179,173,0,0.2)",
+      "value": "transparent",
       "type": "color",
       "description": "Border-color for jackpot widgets"
     },
