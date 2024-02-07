@@ -3611,7 +3611,7 @@
     },
     "prize": {
       "1": {
-        "value": "#DFC628",
+        "value": "{icon.prize.1}",
         "type": "color",
         "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
       },
