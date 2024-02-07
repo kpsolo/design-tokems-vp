@@ -1065,7 +1065,7 @@
               "y": "1",
               "blur": "1",
               "spread": "0",
-              "color": "#A2A6AD",
+              "color": "rgba(74,96,133,0.6)",
               "type": "innerShadow"
             },
             {
