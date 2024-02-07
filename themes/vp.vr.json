@@ -1678,7 +1678,7 @@
       }
     },
     "tap-bar-button": {
-      "value": "8px",
+      "value": "48px",
       "type": "borderRadius",
       "description": "Radius for tap bar button"
     }
