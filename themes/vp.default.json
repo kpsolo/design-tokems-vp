@@ -1605,6 +1605,11 @@
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
+    "tap-bar-button": {
+      "value": "8px",
+      "type": "borderRadius",
+      "description": "Radius for tap bar button"
+    },
     "popup": {
       "value": "8px",
       "type": "borderRadius"

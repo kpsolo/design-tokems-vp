@@ -1676,6 +1676,11 @@
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
+    },
+    "tap-bar-button": {
+      "value": "8px",
+      "type": "borderRadius",
+      "description": "Radius for tap bar button"
     }
   },
   "bg": {
