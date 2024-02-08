@@ -2252,7 +2252,7 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled": {
-        "value": "rgba(77,77,77,0.2)",
+        "value": "rgba(255,255,255,0.2)",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
@@ -2277,7 +2277,7 @@
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "rgba(77,77,77,0.1)",
+        "value": "rgba(255,255,255,0.2)",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },
