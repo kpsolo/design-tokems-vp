@@ -2827,7 +2827,7 @@
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Use for active icons"
     },
@@ -3040,7 +3040,7 @@
         "description": "Input value text color"
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Use for active select text"
       },
