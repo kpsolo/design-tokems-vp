@@ -2624,16 +2624,6 @@
       }
     },
     "footer": {
-      "crypto-up": {
-        "value": "linear-gradient(180deg, rgba(30, 29, 52, 0.84) 0%, rgba(30, 29, 52, 0.34) 100%)",
-        "type": "color",
-        "description": "Background for crypto"
-      },
-      "crypto-down": {
-        "value": "{small-elements.footer.crypto-up}",
-        "type": "color",
-        "description": "Background for crypto"
-      },
       "navdots": {
         "value": "rgba(255,255,255,0.6)",
         "type": "color",
