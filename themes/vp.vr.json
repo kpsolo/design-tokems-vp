@@ -2009,7 +2009,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #EDEDED 0%, rgba(237, 237, 237, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #BEDCFF 0%, rgba(237, 237, 237, 0.00) 100%)",
         "type": "color",
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
