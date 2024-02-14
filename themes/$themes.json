@@ -1177,7 +1177,8 @@
       "shadow.special-blocks.main-banner-title": "S:87a0a206db458e5075512a739994ed1f861fbbd7,",
       "shadow.checkbox-radio": "S:05e343c4ecc41a18b42a237b7b02c460258715c0,",
       "bg.other.tab-inactive": "S:e86f5455a61735c176d093a5a29e53f26147a12c,",
-      "small-elements.separator.border": "S:cf24963f9948eaaf3f48774c5d46ebe38a2ee235,"
+      "small-elements.separator.border": "S:cf24963f9948eaaf3f48774c5d46ebe38a2ee235,",
+      "shadow.special-blocks.wheel.bottom-block": "S:9fa2f33109726847a24950416d7ced2b254311b0,"
     },
     "selectedTokenSets": {
       "vp.vr": "enabled"
