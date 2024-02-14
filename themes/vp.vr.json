@@ -768,7 +768,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "{base.accent-primary}",
+          "color": "#E6D566",
           "type": "dropShadow"
         }
       ],
