@@ -590,7 +590,7 @@
     "tab-content": {
       "value": [
         {
-          "color": "{base.accent-secondary}",
+          "color": "#7FAAFF",
           "type": "dropShadow",
           "x": "0",
           "y": "0",
