@@ -3133,11 +3133,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Trebuchet MS",
+      "value": "PT Sans Caption",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Trebuchet MS",
+      "value": "PT Sans Caption",
       "type": "fontFamilies"
     }
   },
