@@ -1799,7 +1799,7 @@
         "description": "use as bg for welcome popup timer widget"
       },
       "lootboxes-cell-selected": {
-        "value": "transparent",
+        "value": "linear-gradient(180deg, rgba(248, 0, 104, 0.00) 53.95%, rgba(248, 0, 104, 0.20) 68.4%, rgba(248, 0, 104, 0.40) 81.71%, #F80068 100%)",
         "type": "color",
         "description": "bg.other.lootboxes-cof-selected"
       },
