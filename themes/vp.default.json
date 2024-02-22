@@ -3188,6 +3188,11 @@
         "type": "color",
         "description": "border for activity card"
       },
+      "element": {
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 1.3%, rgba(255, 255, 255, 0.20) 51.43%, rgba(255, 255, 255, 0.00) 99%)",
+        "type": "color",
+        "description": "fill for line in first screen"
+      },
       "gradient": {
         "value": "linear-gradient(89deg, rgba(23, 33, 87, 0.70) 1.23%, rgba(23, 33, 87, 0.00) 98.88%)",
         "type": "color",

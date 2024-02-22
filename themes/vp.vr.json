@@ -3233,6 +3233,11 @@
         "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
         "type": "color",
         "description": "for empty cards zone / desktop"
+      },
+      "element": {
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 1.3%, rgba(255, 255, 255, 0.20) 51.43%, rgba(255, 255, 255, 0.00) 99%)",
+        "type": "color",
+        "description": "fill for line in first screen"
       }
     },
     "jackpot-border-2": {

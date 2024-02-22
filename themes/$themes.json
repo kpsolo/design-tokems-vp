@@ -420,7 +420,11 @@
       "special-blocks.live-lottery-numbers": "S:8d439ae39da79e06a5e28cda22305e5e4abff79d,",
       "shadow.checkbox-radio": "S:bb5d47ba7981ecd1d351072d97acdcf59f69336c,",
       "special-blocks.achivements.gradient-1": "S:9c3e23272ff85d650142d9e997d2d768ceaffd2a,",
-      "shadow.special-blocks.main-banner-title": "S:3c894cfd7feb569c3f9148fe05b9bbf84a48c9d9,"
+      "shadow.special-blocks.main-banner-title": "S:3c894cfd7feb569c3f9148fe05b9bbf84a48c9d9,",
+      "bg.other.tab-inactive": "S:14ed2d1f173268a634f867e3ba2a378a2a050c98,",
+      "small-elements.separator.border": "S:2947766a3f0a5588f7816b32ce5ca68d6cc79014,",
+      "special-blocks.achivements.element": "S:d244cbc567bd19e9eb72330f31220080d8c267bd,",
+      "shadow.special-blocks.wheel.bottom-block": "S:7081715ed6be854c202132c09972cc6fe6a629de,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"
