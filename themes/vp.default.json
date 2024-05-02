@@ -3810,11 +3810,11 @@
   },
   "betting": {
     "surface": {
-      "value": "transparent",
+      "value": "#05030c",
       "type": "color"
     },
     "card": {
-      "value": "transparent",
+      "value": "#1f1a4d",
       "type": "color"
     },
     "green": {
