@@ -3810,7 +3810,7 @@
   },
   "betting": {
     "surface": {
-      "value": "#05030c",
+      "value": "#150f3d",
       "type": "color"
     },
     "card": {
@@ -3839,20 +3839,29 @@
       "type": "color"
     },
     "separator primary": {
-      "value": "transparent",
+      "value": "#2f2a60",
       "type": "color"
     },
     "secondary": {
-      "value": "transparent",
+      "value": "rgba(239,237,255,0.1)",
       "type": "color",
       "description": "cashout bg/ "
     },
     "hover card": {
-      "value": "transparent",
-      "type": "color"
+      "value": "{betting.card}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.08",
+            "space": "srgb"
+          }
+        }
+      }
     },
     "select card": {
-      "value": "transparent",
+      "value": "#3425d8",
       "type": "color"
     }
   },
