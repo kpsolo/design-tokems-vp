@@ -3820,15 +3820,7 @@
     "green": {
       "value": "{base.success}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.2",
-            "space": "srgb"
-          }
-        }
-      }
+      "$extensions": {}
     },
     "red": {
       "value": "{base.error}",
