@@ -3819,8 +3819,7 @@
     },
     "green": {
       "value": "{base.success}",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     },
     "red": {
       "value": "{base.error}",
@@ -3855,6 +3854,32 @@
     "select card": {
       "value": "#3425d8",
       "type": "color"
+    },
+    "success-transparent": {
+      "value": "{base.success}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "srgb"
+          }
+        }
+      }
+    },
+    "warning-transparent": {
+      "value": "{base.warning}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "srgb"
+          }
+        }
+      }
     }
   },
   "tab": {
