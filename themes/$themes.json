@@ -424,7 +424,9 @@
       "bg.other.tab-inactive": "S:b34c2a72804d8d5c2a3e5114c2537b3ff051d122,",
       "small-elements.separator.border": "S:263faa218c0ada437714014bcee31e6f60ef20bc,",
       "special-blocks.achivements.element": "S:49d31270a2011efd4c3419b85ca53abf36d68358,",
-      "shadow.special-blocks.wheel.bottom-block": "S:bb1149f542b81018f6a6365ec966ddf727f6902e,"
+      "shadow.special-blocks.wheel.bottom-block": "S:bb1149f542b81018f6a6365ec966ddf727f6902e,",
+      "betting.success-transparent": "S:1a65c0f481744460a0987508b0389256b334b3eb,",
+      "betting.warning-transparent": "S:0de93e830e133a9f05988e1e4b2f135e1c66fa67,"
     },
     "selectedTokenSets": {
       "vp.default": "enabled"
