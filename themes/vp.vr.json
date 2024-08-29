@@ -4028,6 +4028,11 @@
         "value": "#c9e0ff",
         "type": "color",
         "description": "use for borders in sectors"
+      },
+      "picker": {
+        "value": "#DD1521",
+        "type": "color",
+        "description": "use for switcher active bg"
       }
     },
     "switcher": {

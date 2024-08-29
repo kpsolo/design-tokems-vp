@@ -3963,6 +3963,11 @@
         "type": "color",
         "description": "use for switcher active bg"
       },
+      "picker": {
+        "value": "#DD1521",
+        "type": "color",
+        "description": "use for switcher active bg"
+      },
       "sector-2": {
         "value": "#EAB007",
         "type": "color",
