@@ -3424,6 +3424,11 @@
       "value": "linear-gradient(180deg, #BCDAF6 0%, #FFF 100%)",
       "type": "color"
     },
+    "prize-info-bg": {
+      "value": "linear-gradient(90deg, rgba(110, 82, 220, 0.4) 0%, rgba(111, 122, 136, 0.1) 100%)",
+      "type": "color",
+      "description": "For info cards prize in bonus popup"
+    },
     "verification-title": {
       "value": {
         "fontFamily": "{font-family.main}",

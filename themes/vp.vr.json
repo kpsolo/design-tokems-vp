@@ -3490,6 +3490,11 @@
         "paragraphIndent": "0"
       },
       "type": "typography"
+    },
+    "prize-info-bg": {
+      "value": "linear-gradient(90deg, rgba(82, 104, 220, 0.4) 0%, rgba(111, 122, 136, 0.1) 100%)",
+      "type": "color",
+      "description": "For info cards prize in bonus popup"
     }
   },
   "filed spacing": {
