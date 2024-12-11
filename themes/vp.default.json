@@ -4196,7 +4196,7 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "rgba(89,197,255,0.1)",
+        "value": "rgba(33,56,101,0.2)",
         "type": "color",
         "description": "event calendar widget bg"
       },
@@ -4206,7 +4206,7 @@
         "description": "event calendar button bg"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #062F97 0%, rgba(6,47,151,0,12) 100%)",
+        "value": "linear-gradient(180deg, #194083 0%, rgba(25,64,131,0,12) 100%)",
         "type": "color",
         "description": "event calendar default dates bg"
       },
@@ -4233,12 +4233,12 @@
     },
     "border": {
       "main": {
-        "value": "rgba(0,135,207,0.4)",
+        "value": "rgba(0,72,129,0.4)",
         "type": "color",
         "description": "event calendar widget border"
       },
       "primary": {
-        "value": "#0073cf",
+        "value": "#184e8c",
         "type": "color",
         "description": "event calendar default dates border"
       },
