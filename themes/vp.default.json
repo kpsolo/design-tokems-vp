@@ -4192,5 +4192,28 @@
       "type": "spacing",
       "description": "desktop header position 1096"
     }
+  },
+  "calendar": {
+    "bg": {
+      "main": {
+        "value": "rgba(89,197,255,0.1)",
+        "type": "color",
+        "description": "event calendar widget bg"
+      }
+    },
+    "border": {
+      "main": {
+        "value": "rgba(0,135,207,0.4)",
+        "type": "color",
+        "description": "event calendar widget border"
+      }
+    },
+    "content": {
+      "primary": {
+        "value": "#fff",
+        "type": "color",
+        "description": "month"
+      }
+    }
   }
 }
