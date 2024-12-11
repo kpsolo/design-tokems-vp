@@ -4199,6 +4199,21 @@
         "value": "rgba(89,197,255,0.1)",
         "type": "color",
         "description": "event calendar widget bg"
+      },
+      "main-additional": {
+        "value": "rgba(6,168,255,0.3)",
+        "type": "color",
+        "description": "event calendar button bg"
+      },
+      "primary": {
+        "value": "linear-gradient(180deg, #062F97 0%, rgba(6,47,151,0,12) 100%)",
+        "type": "color",
+        "description": "event calendar default dates bg"
+      },
+      "secondary": {
+        "value": "#fff",
+        "type": "color",
+        "description": "event calendar selected dates bg"
       }
     },
     "border": {
