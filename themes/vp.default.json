@@ -4214,6 +4214,21 @@
         "value": "#fff",
         "type": "color",
         "description": "event calendar selected dates bg"
+      },
+      "tertiary": {
+        "value": "rgba(255,255,255,0.1)",
+        "type": "color",
+        "description": "event calendar hover dates bg"
+      },
+      "additional": {
+        "value": "rgba(255,255,255,0.3)",
+        "type": "color",
+        "description": "event calendar hover badge dates bg"
+      },
+      "extra": {
+        "value": "#fff",
+        "type": "color",
+        "description": "event calendar chips active state bg"
       }
     },
     "border": {
@@ -4221,6 +4236,26 @@
         "value": "rgba(0,135,207,0.4)",
         "type": "color",
         "description": "event calendar widget border"
+      },
+      "primary": {
+        "value": "#0073cf",
+        "type": "color",
+        "description": "event calendar default dates border"
+      },
+      "secondary": {
+        "value": "rgba(255,255,255,0.2)",
+        "type": "color",
+        "description": "event calendar chips default border"
+      },
+      "tertiary": {
+        "value": "rgba(255,255,255,0.16)",
+        "type": "color",
+        "description": "event calendar badge default border"
+      },
+      "additional": {
+        "value": "rgba(255,255,255,0.1)",
+        "type": "color",
+        "description": "event calendar chips disabled border"
       }
     },
     "content": {
@@ -4228,6 +4263,26 @@
         "value": "#fff",
         "type": "color",
         "description": "month"
+      },
+      "secondary": {
+        "value": "rgba(255,255,255,0.7)",
+        "type": "color",
+        "description": "day"
+      },
+      "tertiary": {
+        "value": "#fff",
+        "type": "color",
+        "description": "day/chips default"
+      },
+      "additional": {
+        "value": "#002245",
+        "type": "color",
+        "description": "date selected"
+      },
+      "main": {
+        "value": "#e0e5e9",
+        "type": "color",
+        "description": "calendar icon"
       }
     }
   }
