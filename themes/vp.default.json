@@ -4285,7 +4285,7 @@
         "description": "date selected"
       },
       "main": {
-        "value": "#e0e5e9",
+        "value": "#595e97",
         "type": "color",
         "description": "calendar icon"
       }
