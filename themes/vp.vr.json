@@ -548,6 +548,35 @@
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography"
+    },
+    "body-1-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "Regular",
+        "lineHeight": "18px",
+        "fontSize": "14px",
+        "letterSpacing": "0",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Body"
+    },
+    "body-1-stronger-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "Bold",
+        "lineHeight": "18px",
+        "fontSize": "14px",
+        "letterSpacing": "0",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
     }
   },
   "shadow": {
