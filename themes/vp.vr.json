@@ -1197,6 +1197,44 @@
       ],
       "type": "boxShadow",
       "description": "inner shadow for checkbox and radio"
+    },
+    "main-banner-card": {
+      "value": [
+        {
+          "color": "rgba(0,0,0,0.8)",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "0"
+        },
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "rgba(255,255,255,0.4)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "-8",
+          "y": "-16",
+          "blur": "16",
+          "spread": "0",
+          "color": "rgba(0,15,77,0.6)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "4",
+          "y": "8",
+          "blur": "16",
+          "spread": "0",
+          "color": "rgba(99,203,255,0.2)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "shadow effect for card of main banner (mob)"
     }
   },
   "border": {
@@ -2061,6 +2099,11 @@
         "value": "linear-gradient(180deg, rgba( {bg.primary}, 0.00) 0%, rgba( {bg.primary}, 0.2) 100%)",
         "type": "color",
         "description": "strip bg card\n\n[based on primary bg]"
+      },
+      "main-banner-card": {
+        "value": "linear-gradient(180deg, rgba(34, 47, 103, 0.00) 0%, rgba(34, 47, 103, 0.60) 30%, #222F67 50%)",
+        "type": "color",
+        "description": "use on bottom of mob main bunner (under info)"
       }
     },
     "blur": {
