@@ -1351,7 +1351,7 @@
     },
     "ghost-6": {
       "value": {
-        "color": "{bg.tertiary}",
+        "color": "#17294D",
         "width": "1",
         "style": "solid"
       },
