@@ -2077,7 +2077,7 @@
         "description": "strip bg card\n\n[based on primary bg]"
       },
       "main-banner-card": {
-        "value": "linear-gradient(180deg, rgba(34, 47, 103, 0.00) 0%, rgba(34, 47, 103, 0.60) 30%, #222F67 50%)",
+        "value": "linear-gradient(180deg, rgba(26, 57, 94, 0.00) 0%, rgba(26, 57, 94, 0.60) 30%, #1A395E 50%)",
         "type": "color",
         "description": "use on bottom of mob main bunner (under info)"
       }
